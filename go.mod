@@ -1,4 +1,4 @@
-module liuyichen/golang-kit
+module github.com/fanzhongxing/golang-kit
 
 go 1.20
 
